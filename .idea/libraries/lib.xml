@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../javafx-sdk-20/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../../../../javafx-sdk-20/javafx-20-javadoc/javafx.base" />
+      <root url="file://$PROJECT_DIR$/../../../../../javafx-sdk-20/javafx-20-javadoc/javafx.controls" />
+      <root url="file://$PROJECT_DIR$/../../../../../javafx-sdk-20/javafx-20-javadoc/javafx.fxml" />
+      <root url="file://$PROJECT_DIR$/../../../../../javafx-sdk-20/javafx-20-javadoc/javafx.graphics" />
+      <root url="file://$PROJECT_DIR$/../../../../../javafx-sdk-20/javafx-20-javadoc/javafx.media" />
+      <root url="file://$PROJECT_DIR$/../../../../../javafx-sdk-20/javafx-20-javadoc/javafx.swing" />
+      <root url="file://$PROJECT_DIR$/../../../../../javafx-sdk-20/javafx-20-javadoc/javafx.web" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../javafx-sdk-20/src.zip!/javafx.base" />
+      <root url="jar://$PROJECT_DIR$/../../../../../javafx-sdk-20/src.zip!/javafx.controls" />
+      <root url="jar://$PROJECT_DIR$/../../../../../javafx-sdk-20/src.zip!/javafx.fxml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../javafx-sdk-20/src.zip!/javafx.graphics" />
+      <root url="jar://$PROJECT_DIR$/../../../../../javafx-sdk-20/src.zip!/javafx.media" />
+      <root url="jar://$PROJECT_DIR$/../../../../../javafx-sdk-20/src.zip!/javafx.swing" />
+      <root url="jar://$PROJECT_DIR$/../../../../../javafx-sdk-20/src.zip!/javafx.web" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../javafx-sdk-20/lib" recursive="false" />
+  </library>
+</component>
